@@ -1,0 +1,12 @@
+# robots.txt for 丁氏养殖场
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: *
+Allow: /
+
+# 网站地图位置（部署后请将 your-domain.com 替换为您的实际域名）
+Sitemap: https://your-domain.com/sitemap.xml
